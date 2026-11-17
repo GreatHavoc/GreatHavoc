@@ -12,6 +12,9 @@ design, and evaluations.
   financial research and portfolio management system built with Pydantic AI:
   seven coordinated sub-agents, dynamic workflows, persistent memory and
   Logfire-managed prompts.
+- **[Azure AI Agent Backend — case study](https://github.com/GreatHavoc/azure-agent-backend-case-study)** —
+  architecture write-up for a FastAPI control plane over Azure AI Foundry agents,
+  tools, vector stores and long-term memory.
 - **[Optional Medium](https://github.com/GreatHavoc/optional-medium)** — browser
   extension that opens Medium articles on a Freedium mirror instead of the paywall.
   Ships for Chromium and Firefox; Safari builds can be made for your own devices.
