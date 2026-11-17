@@ -8,6 +8,9 @@ small open-source tools that remove friction from everyday work.
 Currently building **AutFin** (autonomous multi-agent research) and shipping
 **Optional Medium** on the Firefox Add-ons store.
 
+Ask me about multi-agent systems with LangGraph, Snowflake Cortex cost
+attribution, or FastAPI services.
+
 Main stack: Python, SQL, REST APIs, Azure, Snowflake, Podman, JavaScript, system
 design, and evaluations.
 
