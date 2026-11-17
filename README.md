@@ -33,6 +33,22 @@ design, and evaluations.
 - **[Real-Time Object Detection](https://github.com/GreatHavoc/RealTime-Object-Detection-Model)** —
   camera-feed object detection model.
 
+## Recently shipped
+
+<!-- activity:start -->
+**Code**
+- [RealTime-Object-Detection-Model — Add README for the object-detection demo](https://github.com/GreatHavoc/RealTime-Object-Detection-Model/commit/dd7a20050bbc07dedce1cd3014d2e409b9d4a80a) - 2026-11-17
+- [azure-agent-backend-case-study — Document the Azure AI agent control-plane architecture](https://github.com/GreatHavoc/azure-agent-backend-case-study/commit/1e89b8681dd421ef42cc0ee435864302284ff24d) - 2026-11-17
+- [AutFin — Ignore runtime data directory](https://github.com/GreatHavoc/AutFin/commit/106ef46634ff6f86f210643bc9a93138abd8ce0a) - 2026-11-17
+- [optional-medium — Add AMO listing screenshots and their generator](https://github.com/GreatHavoc/optional-medium/commit/902e2ab22e34e1f63eebbcb53c26a7e79f755d5b) - 2026-11-17
+- [snowflake-cost-dashboard — Readme Updated](https://github.com/GreatHavoc/snowflake-cost-dashboard/commit/611bec91216f514fd48bfa9c9957dbcbec13bbe8) - 2026-04-17
+- [sf-migration-toolkit — Addded checkpoints to resume from a corrupted state](https://github.com/GreatHavoc/sf-migration-toolkit/commit/daf85ba83f5f2778ea4c64de65656bd38d194a35) - 2026-04-05
+
+**Writing**
+- [I Wired Snowflake’s Cortex Agents to My Front-End. Here’s Every Wall I Hit.](https://medium.com/it-chronicles/i-wired-snowflakes-cortex-agents-to-my-front-end-here-s-every-wall-i-hit-91a615ad4f9a?source=rss-cd6d054e0c5a------2) - 2026-04-04
+- [Beyond Bigger Context: Apple’s CLaRa Proposes a New Path for RAG](https://medium.com/write-a-catalyst/beyond-bigger-context-apples-clara-proposes-a-new-path-for-rag-5e917bac7923?source=rss-cd6d054e0c5a------2) - 2025-12-24
+<!-- activity:end -->
+
 ## Writing
 
 [greathavoc.medium.com](https://greathavoc.medium.com) — practical writing on AI
