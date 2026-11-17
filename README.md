@@ -1,7 +1,12 @@
+![Prakhar Singh - AI / Data Engineer](assets/banner.png)
+
 # Prakhar Singh
 
 AI / Data Engineer based in India. I build agentic systems, data platforms, and
 small open-source tools that remove friction from everyday work.
+
+Currently building **AutFin** (autonomous multi-agent research) and shipping
+**Optional Medium** on the Firefox Add-ons store.
 
 Main stack: Python, SQL, REST APIs, Azure, Snowflake, Podman, JavaScript, system
 design, and evaluations.
