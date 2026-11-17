@@ -8,6 +8,10 @@ design, and evaluations.
 
 ## Selected work
 
+- **[AutFin](https://github.com/GreatHavoc/AutFin)** — autonomous multi-agent
+  financial research and portfolio management system built with Pydantic AI:
+  seven coordinated sub-agents, dynamic workflows, persistent memory and
+  Logfire-managed prompts.
 - **[Optional Medium](https://github.com/GreatHavoc/optional-medium)** — browser
   extension that opens Medium articles on a Freedium mirror instead of the paywall.
   Ships for Chromium and Firefox; Safari builds can be made for your own devices.
