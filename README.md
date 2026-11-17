@@ -52,10 +52,6 @@ design, and evaluations.
 - [Beyond Bigger Context: Apple’s CLaRa Proposes a New Path for RAG](https://medium.com/write-a-catalyst/beyond-bigger-context-apples-clara-proposes-a-new-path-for-rag-5e917bac7923?source=rss-cd6d054e0c5a------2) - 2025-12-24
 <!-- activity:end -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GreatHavoc&theme=github" alt="GitHub stats for GreatHavoc" />
-</p>
-
 ## Writing
 
 [greathavoc.medium.com](https://greathavoc.medium.com) — practical writing on AI
