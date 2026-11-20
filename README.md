@@ -1,20 +1,20 @@
-![Prakhar Singh, AI engineer](assets/listing.png)
+![PRAKHAR.YAML, a printed listing of who I am](assets/listing.png)
 
-I want to be free from paywalled software and closed corporate systems. Most of what I build is a small step toward an ecosystem where knowledge is available to everyone.
+I want to be free from paywalled software and closed corporate systems. Most of what I build opens one small gate in that wall.
 
-I work on agent orchestration and data platforms at Onelogica.
+I work on agent orchestration and data platforms at Onelogica in India.
 
-## What I built
+## Open gates
 
-[AutFin](https://github.com/GreatHavoc/AutFin) runs seven coordinated sub-agents through Pydantic AI to research markets and manage a portfolio.
+01 [AutFin](https://github.com/GreatHavoc/AutFin) runs seven coordinated sub-agents through Pydantic AI to research markets and manage a portfolio.
 
-[Optional Medium](https://github.com/GreatHavoc/optional-medium) opens Medium articles on a Freedium mirror. Install it from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/optional-medium/) or from the GitHub release for Chromium browsers.
+02 [Optional Medium](https://github.com/GreatHavoc/optional-medium) opens Medium articles on a Freedium mirror. Install it from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/optional-medium/) or from the GitHub release for Chromium browsers.
 
-[Snowflake cost dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard) attributes cost to each request using data from SNOWFLAKE.ACCOUNT_USAGE.
+03 [Snowflake cost dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard) attributes cost to each request using data from SNOWFLAKE.ACCOUNT_USAGE.
 
-[Azure AI agents](https://github.com/GreatHavoc/azure-agent-backend-case-study) is a written architecture of the FastAPI service that manages agents, tools and long-term memory.
+04 [Azure AI agents](https://github.com/GreatHavoc/azure-agent-backend-case-study) is a written architecture of the FastAPI service that manages agents, tools and long-term memory.
 
-## Recently
+## Lately
 
 <!-- activity:start -->
 **Code**
