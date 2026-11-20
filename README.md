@@ -6,13 +6,13 @@ I work on agent orchestration and data platforms at Onelogica in India.
 
 ## Open gates
 
-01 [AutFin](https://github.com/GreatHavoc/AutFin) runs seven coordinated sub-agents through Pydantic AI to research markets and manage a portfolio.
+01 [AutFin](https://github.com/GreatHavoc/AutFin) puts seven sub-agents on morning research duty. They pull market data, argue the trade, and carry what they learn into the next day. Built with Pydantic AI around a Zerodha portfolio.
 
-02 [Optional Medium](https://github.com/GreatHavoc/optional-medium) opens Medium articles on a Freedium mirror. Install it from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/optional-medium/) or from the GitHub release for Chromium browsers.
+02 [Optional Medium](https://github.com/GreatHavoc/optional-medium) opens Medium articles on a Freedium mirror, so the site itself becomes optional. Live on [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/optional-medium/); Chromium installs from the GitHub release.
 
-03 [Snowflake cost dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard) attributes cost to each request using data from SNOWFLAKE.ACCOUNT_USAGE.
+03 [Snowflake cost dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard) traces every query to what it cost, per request, from SNOWFLAKE.ACCOUNT_USAGE. Built to answer which request burned the budget.
 
-04 [Azure AI agents](https://github.com/GreatHavoc/azure-agent-backend-case-study) is a written architecture of the FastAPI service that manages agents, tools and long-term memory.
+04 [Azure AI agents](https://github.com/GreatHavoc/azure-agent-backend-case-study) writes down the FastAPI service that puts agents, tools, vector stores and memory behind one HTTP surface. The code stays private and the decisions are public.
 
 ## Lately
 
