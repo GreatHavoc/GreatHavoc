@@ -1,12 +1,8 @@
-![Prakhar Singh workbench](assets/workbench.png)
-
-![How the work connects](assets/flow.png)
-
-# Prakhar Singh
+![Prakhar Singh, AI engineer](assets/listing.png)
 
 I want to be free from paywalled software and closed corporate systems. Most of what I build is a small step toward an ecosystem where knowledge is available to everyone.
 
-I work on agent orchestration and data platforms at Onelogica in India.
+I work on agent orchestration and data platforms at Onelogica.
 
 ## What I built
 
