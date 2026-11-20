@@ -5,8 +5,8 @@
 AI / Data Engineer based in India. I build agentic systems, data platforms, and
 small open-source tools that remove friction from everyday work.
 
-Currently building **AutFin** (autonomous multi-agent research) and shipping
-**Optional Medium** on the Firefox Add-ons store.
+Currently building **AutFin** (autonomous multi-agent research). **Optional Medium**
+is live on Firefox Add-ons.
 
 Ask me about multi-agent systems with LangGraph, Snowflake Cortex cost
 attribution, or FastAPI services.
