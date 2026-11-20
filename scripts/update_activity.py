@@ -59,8 +59,8 @@ def recent_code(token):
             when = isoday(c["commit"]["committer"]["date"])
             if when < cutoff:
                 continue
-            message = c["commit"]["message"].splitlines()[0].strip()
-            items.append((when, f"- [{name} — {message[:80]}]({c['html_url']}) - {when.date()}"))
+            message = c["commit"]["message"].splitlines()[0].strip().replace(" — ", ": ")
+            items.append((when, f"- [{name}: {message[:80]}]({c['html_url']}) - {when.date()}"))
         except Exception:
             continue  # a single private/deleted repo must not break the whole refresh
     return sorted(items, reverse=True)[:MAX_ITEMS]
