@@ -1,42 +1,22 @@
-![Prakhar Singh - AI / Data Engineer](assets/banner.png)
+![Prakhar Singh workbench](assets/workbench.png)
 
 # Prakhar Singh
 
-AI / Data Engineer based in India. I build agentic systems, data platforms, and
-small open-source tools that remove friction from everyday work.
+I want to be free from paywalled software and closed corporate systems. Most of what I build is a small step toward an ecosystem where knowledge is available to everyone.
 
-Currently building **AutFin** (autonomous multi-agent research). **Optional Medium**
-is live on Firefox Add-ons.
+I work on agent orchestration and data platforms at Onelogica in India.
 
-Ask me about multi-agent systems with LangGraph, Snowflake Cortex cost
-attribution, or FastAPI services.
+## What I built
 
-Main stack: Python, SQL, REST APIs, Azure, Snowflake, Podman, JavaScript, system
-design, and evaluations.
+[AutFin](https://github.com/GreatHavoc/AutFin) runs seven coordinated sub-agents through Pydantic AI to research markets and manage a portfolio.
 
-## Selected work
+[Optional Medium](https://github.com/GreatHavoc/optional-medium) opens Medium articles on a Freedium mirror. Install it from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/optional-medium/) or from the GitHub release for Chromium browsers.
 
-- **[AutFin](https://github.com/GreatHavoc/AutFin)** — autonomous multi-agent
-  financial research and portfolio management system built with Pydantic AI:
-  seven coordinated sub-agents, dynamic workflows, persistent memory and
-  Logfire-managed prompts.
-- **[Azure AI Agent Backend — case study](https://github.com/GreatHavoc/azure-agent-backend-case-study)** —
-  architecture write-up for a FastAPI control plane over Azure AI Foundry agents,
-  tools, vector stores and long-term memory.
-- **[Optional Medium](https://github.com/GreatHavoc/optional-medium)** — browser
-  extension that opens Medium articles on a Freedium mirror instead of the paywall.
-  Ships for Chromium and Firefox; Safari builds can be made for your own devices.
-  [Firefox listing](https://addons.mozilla.org/en-US/firefox/addon/optional-medium/)
-- **[Snowflake Cost Analytics Dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard)** —
-  full-stack FinOps dashboard with per-request cost attribution built from
-  `SNOWFLAKE.ACCOUNT_USAGE` (React, Express, ECharts).
-- **[Snowflake Migration Utility](https://github.com/GreatHavoc/sf-migration-toolkit)** —
-  migrates and manages Snowflake database objects, agents, and semantic views,
-  with backup and restore.
-- **[Real-Time Object Detection](https://github.com/GreatHavoc/RealTime-Object-Detection-Model)** —
-  camera-feed object detection model.
+[Snowflake cost dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard) attributes cost to each request using data from SNOWFLAKE.ACCOUNT_USAGE.
 
-## Recently shipped
+[Azure AI agents](https://github.com/GreatHavoc/azure-agent-backend-case-study) is a written architecture of the FastAPI service that manages agents, tools and long-term memory.
+
+## Recently
 
 <!-- activity:start -->
 **Code**
@@ -52,19 +32,4 @@ design, and evaluations.
 - [Beyond Bigger Context: Apple’s CLaRa Proposes a New Path for RAG](https://medium.com/write-a-catalyst/beyond-bigger-context-apples-clara-proposes-a-new-path-for-rag-5e917bac7923?source=rss-cd6d054e0c5a------2) - 2025-12-24
 <!-- activity:end -->
 
-## Writing
-
-[greathavoc.medium.com](https://greathavoc.medium.com) — practical writing on AI
-engineering, system design, data, and tooling.
-
-## Support
-
-If any of this saved you time:
-
-- [Buy me a coffee](https://buymeacoffee.com/greathavoc)
-- [GitHub Sponsors](https://github.com/sponsors/GreatHavoc)
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/prakhar-singh-244733203/) ·
-[GitHub](https://github.com/GreatHavoc)
+[Writing](https://greathavoc.medium.com) · [LinkedIn](https://www.linkedin.com/in/prakhar-singh-244733203/) · [Coffee](https://buymeacoffee.com/greathavoc) · [Sponsors](https://github.com/sponsors/GreatHavoc)

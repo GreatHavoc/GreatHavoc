@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420">
+  <rect width="1000" height="420" fill="#14161a"/>
+
+  <g stroke="#34d399" stroke-opacity="0.55" stroke-width="2">
+    <line x1="380" y1="185" x2="180" y2="125"/>
+    <line x1="620" y1="185" x2="820" y2="125"/>
+    <line x1="380" y1="240" x2="180" y2="310"/>
+    <line x1="620" y1="240" x2="820" y2="310"/>
+  </g>
+
+  <rect x="375" y="165" width="250" height="90" rx="16" fill="#1f242b" stroke="#3a424d" stroke-width="2"/>
+  <text x="500" y="205" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f5f7fa">Prakhar Singh</text>
+  <text x="500" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#9aa4b2">AI engineer</text>
+
+  <rect x="50" y="85" width="260" height="80" rx="14" fill="#1f242b" stroke="#3a424d" stroke-width="2"/>
+  <text x="75" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#f5f7fa">AutFin</text>
+  <text x="75" y="146" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9aa4b2">seven sub-agents</text>
+
+  <rect x="690" y="85" width="260" height="80" rx="14" fill="#1f242b" stroke="#3a424d" stroke-width="2"/>
+  <text x="715" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" fill="#f5f7fa">Optional Medium</text>
+  <text x="715" y="146" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9aa4b2">live on two stores</text>
+
+  <rect x="50" y="275" width="260" height="80" rx="14" fill="#1f242b" stroke="#3a424d" stroke-width="2"/>
+  <text x="75" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" fill="#f5f7fa">Snowflake cost</text>
+  <text x="75" y="336" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9aa4b2">per-request attribution</text>
+
+  <rect x="690" y="275" width="260" height="80" rx="14" fill="#1f242b" stroke="#3a424d" stroke-width="2"/>
+  <text x="715" y="310" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" fill="#f5f7fa">Azure agents</text>
+  <text x="715" y="336" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9aa4b2">written architecture</text>
+</svg>
