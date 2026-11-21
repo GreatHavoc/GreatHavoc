@@ -4,6 +4,11 @@ I want to be free from paywalled software and closed corporate systems. Most of 
 
 I build production RAG and agentic systems at Onelogica in India. I hold the SnowPro Associate and Azure AI Engineer Associate certifications.
 
+![Top 4, Tata Concept to Catwalk](https://img.shields.io/badge/Tata_Concept_to_Catwalk-Top_4-1d4ed8?style=flat-square)
+![SnowPro Associate, 2026](https://img.shields.io/badge/SnowPro_Associate-2026-1d4ed8?style=flat-square)
+![Azure AI Engineer, 2024](https://img.shields.io/badge/Azure_AI_Engineer-2024-1d4ed8?style=flat-square)
+![Databricks Data Engineer, 2024](https://img.shields.io/badge/Databricks_Data_Engineer-2024-1d4ed8?style=flat-square)
+
 ## Open gates
 
 01 [AutFin](https://github.com/GreatHavoc/AutFin) puts seven sub-agents on morning research duty. They pull market data, argue the trade, and carry what they learn into the next day. Built with Pydantic AI around a Zerodha portfolio.
@@ -19,6 +24,44 @@ I build production RAG and agentic systems at Onelogica in India. I hold the Sno
 06 Fashion AI forecasting combines retrieval over social data with multimodal image and video analysis. It ranked Top 4 in the Tata Concept to Catwalk challenge.
 
 07 AI Interview Suite tracks candidates with AI proctoring and audit records for video, audio and transcription. It runs on Azure Container Apps inside a private VNet.
+
+## Stack
+
+<table>
+<tr><td>Agents</td><td>LangGraph, LangChain, MCP, Pydantic AI</td></tr>
+<tr><td>Models</td><td>Azure OpenAI, Cortex Agents, Google models</td></tr>
+<tr><td>Data</td><td>Snowflake, SQL, ELT, vector stores</td></tr>
+<tr><td>Delivery</td><td>FastAPI, Azure Container Apps, Bicep, GitHub Actions</td></tr>
+</table>
+
+<details>
+<summary>Walls hit and what fixed them</summary>
+
+- Freedium's original domain stopped resolving. Optional Medium now reads the mirror from a config value and ships a working default.
+- Cortex Agents had to run from the front end without exposing credentials. The calls go through Snowflake stored procedures, with prompts and agents versioned in tables.
+
+</details>
+
+## Milestones
+
+- 2026-05 SnowPro Associate certified
+- 2026-02 Neurone data and AI platform started
+- 2025-11 Fashion AI ranked Top 4 in Tata Concept to Catwalk
+- 2024-03 Azure AI Engineer Associate certified
+
+<details>
+<summary>Certifications</summary>
+
+- SnowPro Associate, Snowflake, issued May 2026
+- Databricks Certified Data Engineer Associate, issued Dec 2024, valid through Dec 2026
+- Postman API Fundamentals Student Expert, issued Mar 2024
+- Microsoft Certified Azure AI Engineer Associate, issued Mar 2024
+- Python Foundation Certification, Infosys, issued Jul 2023
+- Cybersecurity Foundation, Palo Alto Networks, issued Nov 2022
+- Google Cloud Essentials, skill badge, issued Apr 2022
+- Baseline Infrastructure and Networking in Google Cloud, skill badges, issued Apr 2022
+
+</details>
 
 ## Lately
 
