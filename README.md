@@ -2,7 +2,7 @@
 
 I want to be free from paywalled software and closed corporate systems. Most of what I build opens one small gate in that wall.
 
-I work on agent orchestration and data platforms at Onelogica in India.
+I build production RAG and agentic systems at Onelogica in India. I hold the SnowPro Associate and Azure AI Engineer Associate certifications.
 
 ## Open gates
 
@@ -13,6 +13,12 @@ I work on agent orchestration and data platforms at Onelogica in India.
 03 [Snowflake cost dashboard](https://github.com/GreatHavoc/snowflake-cost-dashboard) traces every query to what it cost, per request, from SNOWFLAKE.ACCOUNT_USAGE. Built to answer which request burned the budget.
 
 04 [Azure AI agents](https://github.com/GreatHavoc/azure-agent-backend-case-study) writes down the FastAPI service that puts agents, tools, vector stores and memory behind one HTTP surface. The code stays private and the decisions are public.
+
+05 Bank Bot moves banking workflows to WhatsApp and Telegram behind secure APIs. It passed compliance review and code audit for Azure Marketplace.
+
+06 Fashion AI forecasting combines retrieval over social data with multimodal image and video analysis. It ranked Top 4 in the Tata Concept to Catwalk challenge.
+
+07 AI Interview Suite tracks candidates with AI proctoring and audit records for video, audio and transcription. It runs on Azure Container Apps inside a private VNet.
 
 ## Lately
 
