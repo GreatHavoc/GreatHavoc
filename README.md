@@ -67,7 +67,7 @@ I build production RAG and agentic systems at Onelogica in India. I hold the Sno
 
 <!-- activity:start -->
 **Code**
-- [optional-medium: Update README with Firefox approval](https://github.com/GreatHavoc/optional-medium/commit/245ad0f1fd5b5fa6544c1b4d67eca98ddbefbaed) - 2026-11-20
+- [optional-medium: Record the 2.0.0 release channels](https://github.com/GreatHavoc/optional-medium/commit/f52ce09d80d0d28862b05a6d3739992c2c249796) - 2026-11-25
 - [RealTime-Object-Detection-Model: Add README for the object-detection demo](https://github.com/GreatHavoc/RealTime-Object-Detection-Model/commit/dd7a20050bbc07dedce1cd3014d2e409b9d4a80a) - 2026-11-17
 - [azure-agent-backend-case-study: Document the Azure AI agent control-plane architecture](https://github.com/GreatHavoc/azure-agent-backend-case-study/commit/1e89b8681dd421ef42cc0ee435864302284ff24d) - 2026-11-17
 - [AutFin: Ignore runtime data directory](https://github.com/GreatHavoc/AutFin/commit/106ef46634ff6f86f210643bc9a93138abd8ce0a) - 2026-11-17
